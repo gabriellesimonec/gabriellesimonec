@@ -1,10 +1,12 @@
-# 👩‍💻 Gabrielle Simone
+# Olá! Sou a Gabrielle Simone 👩‍💻
 
-# Olá! 👋 
+🎓 Recém-formada em Análise e Desenvolvimento de Sistemas, pronta para transformar ideias em soluções reais!
 
-🎓 Formada em **Análise e Desenvolvimento de Sistemas**  
-💻 Interesse em **Desenvolvimento Mobile**, **Java** e **JavaScript**  
-🚀 Em constante aprendizado e criação de projetos  
+🚀 Buscando minha primeira oportunidade profissional como Desenvolvedora Full-Stack, sou apaixonada por construir experiências incríveis tanto no front-end quanto no back-end.
+
+📱 Tenho grande interesse em expandir minhas habilidades no desenvolvimento mobile, atualmente focada em tecnologias como Java, JavaScript, React e Node.js.
+
+💡 Estou sempre em constante aprendizado e criação de projetos para crescer cada vez mais no universo da programação.
 
 
 ---
