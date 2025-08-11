@@ -1,4 +1,4 @@
-# Olá! Sou a Gabrielle Simone 👩‍💻
+# 👩‍💻 Olá! Me chamo Gabrielle Simone 
 
 🎓 Recém-formada em Análise e Desenvolvimento de Sistemas, pronta para transformar ideias em soluções reais!
 
