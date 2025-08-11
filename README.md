@@ -3,9 +3,9 @@
 # Olá! 👋 Eu sou Gabrielle Simone
 
 🎓 Formada em **Análise e Desenvolvimento de Sistemas**  
-💻 Interesse em **desenvolvimento mobile**, **Java** e **JavaScript**  
+💻 Interesse em **Desenvolvimento Mobile**, **Java** e **JavaScript**  
 🚀 Em constante aprendizado e criação de projetos  
-📫 Contato: [seu email ou LinkedIn]  
+📫 Contato: gabysimonegaby@gmail.com  
 
 ---
 
