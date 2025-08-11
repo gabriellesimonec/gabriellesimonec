@@ -1,6 +1,6 @@
 # 👩‍💻 Gabrielle Simone
 
-# Olá! 👋 Eu sou Gabrielle Simone
+# Olá! 👋 
 
 🎓 Formada em **Análise e Desenvolvimento de Sistemas**  
 💻 Interesse em **Desenvolvimento Mobile**, **Java** e **JavaScript**  
